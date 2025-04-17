@@ -7,7 +7,7 @@ public class SudokuSolver {
     private final JFrame frame;
 
     public SudokuSolver() {
-        frame = new JFrame("✨ Sudoku Solver - Pro Edition ✨");
+        frame = new JFrame("✨ Sudoku Solver ✨");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(800, 850);
         frame.setLayout(new BorderLayout());
