@@ -1,0 +1,1 @@
+Sudoku Solver is a Java-based GUI application built using Swing that allows users to input and solve Sudoku puzzles instantly. With a clean, colorful interface and a powerful backtracking algorithm under the hood, this project is perfect for puzzle lovers and a great example of combining logic with sleek UI design.
